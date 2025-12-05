@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Farah Kharbech
+# 👋 Hi, I'm Farah Kharbeche
 
 Full-Stack Web & Mobile Developer | MERN | WordPress | Real-Time Systems
 
