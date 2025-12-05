@@ -1,8 +1,6 @@
-<div align="center">
-
 # 👋 Hi, I'm Farah Kharbech
 
-### Full-Stack Web & Mobile Developer | MERN | WordPress | Real-Time Systems
+Full-Stack Web & Mobile Developer | MERN | WordPress | Real-Time Systems
 
 <a href="mailto:farah.kharbeche@outlook.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
@@ -11,15 +9,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
----
-
-## Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,js,ts,wordpress,docker,mysql,postgres,tailwind,aws" alt="Tech Stack"/>
-</p>
-
----
+<img src="https://skillicons.dev/icons?i=react,nodejs,js,ts,wordpress,docker,mysql,postgres,tailwind,aws" alt="Tech Stack"/>
 
 ## About Me
 
@@ -44,10 +34,6 @@ React Native + WordPress API | Appointments & profiles
 **20+ WordPress Plugins**  
 Streaming, booking, dashboards, checkout, ACF, API integrations
 
----
-
 ## Languages
 
 Arabic • French • English • German
-
-</div>
