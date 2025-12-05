@@ -1,130 +1,64 @@
 <h1 align="center">Hi, I'm Farah Kharbech</h1>
-<h3 align="center">Full-Stack Web & Mobile Developer | MERN | WordPress Plugin Development | DevOps | Real-Time Communication Systems</h3>
+<h3 align="center">Full-Stack Web & Mobile Developer | MERN | WordPress Plugin Development | Real-Time Systems</h3>
 
 ---
 
 ## About Me
-I’m a Full-Stack Web and Mobile Developer experienced in building production-ready platforms, authentication systems, real-time video applications, and custom WordPress solutions.
-
-I work with modern JavaScript and PHP ecosystems, including MERN, React Native, Node.js (Fastify, Express), Prisma, PostgreSQL, Docker, and advanced WordPress development. I also have hands-on experience deploying full applications on unmanaged VPS environments.
-
-I currently work remotely with a UK-based company and collaborate with a multidisciplinary team, contributing to both technical leadership and system architecture.
+Full-stack developer building production-grade platforms, real-time video systems, secure authentication flows, and custom WordPress plugins.  
+I work across JavaScript & PHP ecosystems (MERN, React Native, Fastify, Prisma, PostgreSQL, Docker) and deploy full applications on unmanaged VPS servers.
 
 ---
 
-## Major Projects
+## Highlight Projects
 
-### 1. session.closebyyou.com — Full Video Consultation Platform  
-**Stack:** MERN, Agora 
-A complete therapist–patient consultation system including:  
-- Secure HD video calls  
-- Appointment booking  
-- Collaborative whiteboard  
-- Patient history and session notes  
-- Real-time features and role-based permissions  
-- Authentication and dashboards  
-A full telehealth platform used in production.
+**session.closebyyou.com – Video Consultation Platform**  
+MERN + Agora. HD calls, appointments, whiteboard, notes, roles, authentication.
 
-### 2. MySafeLogin.com — Single Sign-On (SSO) Authentication System  
-**Stack:** Keycloak, Docker, Apache, VPS  
-A secure authentication infrastructure featuring:  
-- Single Sign-On (SSO)  
-- Role-based permissions  
-- User federation  
-- High-security setup on Docker  
-- Integrations with WordPress and custom client apps  
-Designed as an enterprise-grade identity solution.
+**MySafeLogin.com – SSO System**  
+Keycloak + Docker + VPS. Enterprise-level SSO with RBAC, federation, and WordPress integration.
 
-### 3. Ebook Reader Platform (Work in Progress)  
-**Stack:** React, Tailwind, TypeScript, Node.js, Fastify, Prisma, PostgreSQL, Docker  
-A cloud reader including:  
-- Reader interface with progress tracking  
-- User authentication  
-- Book management  
-- Backend API built with Fastify and Prisma  
-- Deployment on unmanaged VPS  
-A modern full-stack SaaS-style project.
+**Ebook Reader SaaS (WIP)**  
+React + Fastify + Prisma + PostgreSQL + Docker. Cloud reader with progress tracking and authentication.
 
-### 4. CloseByYou Mobile App  
-**Stack:** React Native (Expo) + WordPress Backend  
-A mobile app for therapists and patients with:  
-- Secure login  
-- Appointment management  
-- User profiles  
-- API communication with WordPress backend  
+**CloseByYou Mobile App**  
+React Native + WordPress API. Appointments, profiles, secure login.
 
-### 5. Professional WordPress Plugins (20+ Custom Plugins)  
-I have built more than 20 custom WordPress plugins used in real client projects, such as:  
-- Live TV streaming plugin  
-- Custom checkout and cart logic  
-- Therapist–patient booking systems  
-- ACF-based data flows  
-- Custom dashboards and admin tools  
-- MySafeLogin integration plugin  
-These plugins are used in production websites for real businesses.
+**20+ Custom WordPress Plugins**  
+Custom plugins for streaming, booking systems, dashboards, checkout logic, ACF workflows.
 
 ---
 
 ## Tech Stack
-### Frontend
-- React.js  
-- React Native (Expo)
-- Next.js
-- TailwindCSS  
-- TypeScript  
-- HTML, CSS, JavaScript
 
-### Backend
-- Node.js  
-- Express, Fastify  
-- Prisma ORM  
-- PHP (WordPress & custom APIs)
-
-### Databases
-- MySQL  
-- PostgreSQL  
-- MongoDB
-
-### DevOps & Infrastructure
-- Docker  
-- Keycloak  
-- Apache / Nginx  
-- Unmanaged VPS deployment  
-
-### WordPress Expertise
-- Custom plugin development  
-- WooCommerce & checkout flows  
-- Theme customization  
-- API integrations  
-- ACF-based systems  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" alt="WordPress" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keycloak/keycloak-original.svg" alt="Keycloak" width="40" height="40"/>
+</p>
 
 ---
 
 ## Languages
-- Arabic (Native)  
-- French (Fluent)  
-- English (Fluent)  
-- German (Fluent)
+Arabic, French, English, German
 
 ---
 
 ## Leadership
-- Leading a multidisciplinary remote team  
-- Overseeing project architecture and technical decision-making  
-- Managing operational roles  
+Leading a multidisciplinary remote team and overseeing architecture and technical decisions.
 
 ---
 
 ## Personal Interests
-- Violinist  
-- Taekwondo practitioner  
+Violin, Taekwondo  
 
 ---
 
 ## Contact
-- **Email:** farah.kharbeche@outlook.com  
-- **LinkedIn:** https://www.linkedin.com/in/farah-kharbeche-25417028a/  
-
----
-
-Thank you for visiting my GitHub profile.
+Email: farah.kharbeche@outlook.com  
+LinkedIn: [linkedin.com/in/farah-kharbeche-25417028a](https://www.linkedin.com/in/farah-kharbeche-25417028a/)
