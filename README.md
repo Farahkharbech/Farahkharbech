@@ -6,7 +6,7 @@ Full-Stack Web & Mobile Developer | MERN | WordPress | Real-Time Systems
 
 ---
 
-## Highlight Projects
+## Key Projects
 
 **session.closebyyou.com** – Video Consultation Platform  
 MERN + Agora + AWS S3 | HD calls, appointments, whiteboard, patient history
@@ -25,7 +25,7 @@ Streaming, booking, dashboards, checkout, ACF, API integrations
 
 ## Languages
 
-Arabic • French • English • German
+English • German • French •  Arabic
 
 ## Full-stack magician: transforming ideas into reality.
 
