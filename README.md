@@ -1,8 +1,21 @@
-# 👋 Hi, I'm Farah Kharbeche  
-**Full-Stack Web & Mobile Developer | MERN | WordPress | Real-Time Systems**
-<br/>
+# 👋 Hi, I'm Farah Kharbech
+
+Full-Stack Web & Mobile Developer | MERN | WordPress | Real-Time Systems
+
+<a href="mailto:farah.kharbeche@outlook.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://www.linkedin.com/in/farah-kharbeche-25417028a/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
 <img src="https://skillicons.dev/icons?i=react,nodejs,js,ts,wordpress,docker,mysql,postgres,tailwind,aws" alt="Tech Stack"/>
 
+## About Me
+
+Full-stack developer building **production-grade platforms**, **real-time video systems**, and **custom WordPress plugins**. I deploy on unmanaged VPS and lead a remote multidisciplinary team.
+
+---
 
 ## Highlight Projects
 
@@ -24,11 +37,3 @@ Streaming, booking, dashboards, checkout, ACF, API integrations
 ## Languages
 
 Arabic • French • English • German
-
-  <a href="mailto:farah.kharbeche@outlook.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://www.linkedin.com/in/farah-kharbeche-25417028a/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<br/>
