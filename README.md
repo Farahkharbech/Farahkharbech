@@ -32,6 +32,7 @@ Streaming, booking, dashboards, checkout, ACF, API integrations
 
 Arabic • French • English • German
 
+# Full-stack magician: transforming ideas into reality.
 
 <a href="mailto:farah.kharbeche@outlook.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
