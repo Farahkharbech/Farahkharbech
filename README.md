@@ -1,6 +1,18 @@
 <h1 align="center">Hi, I'm Farah Kharbech</h1>
 <h3 align="center">Full-Stack Web & Mobile Developer | MERN | WordPress Plugin Development | Real-Time Systems</h3>
 
+<p align="center">
+  <a href="mailto:farah.kharbeche@outlook.com">
+    <img src="https://img.shields.io/badge/Email-farah.kharbeche%40outlook.com-blue?style=for-the-badge&logo=gmail" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/farah-kharbeche-25417028a/">
+    <img src="https://img.shields.io/badge/LinkedIn-FarahKharbeche-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://wa.me/21655515183">
+    <img src="https://img.shields.io/badge/WhatsApp-%2B21655515183-green?style=for-the-badge&logo=whatsapp" alt="WhatsApp"/>
+  </a>
+</p>
+
 ---
 
 ## Tech Stack
@@ -14,8 +26,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" style="margin:5px"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" style="margin:5px"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" style="margin:5px"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keycloak/keycloak-original.svg" alt="Keycloak" width="40" height="40" style="margin:5px"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS S3" width="40" height="40" style="margin:5px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="40" height="40" style="margin:5px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40" style="margin:5px"/>
 </p>
 
 ---
@@ -54,12 +66,3 @@ Arabic, French, English, German
 Leading a multidisciplinary remote team and overseeing architecture and technical decisions.
 
 ---
-
-## Personal Interests
-Violin, Taekwondo  
-
----
-
-## Contact
-Email: farah.kharbeche@outlook.com  
-LinkedIn: [linkedin.com/in/farah-kharbeche-25417028a](https://www.linkedin.com/in/farah-kharbeche-25417028a/)
