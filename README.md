@@ -3,16 +3,33 @@
 
 ---
 
+## Tech Stack
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" style="margin:5px"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" style="margin:5px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS" width="40" height="40" style="margin:5px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TS" width="40" height="40" style="margin:5px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" alt="WordPress" width="40" height="40" style="margin:5px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" style="margin:5px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" style="margin:5px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" style="margin:5px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keycloak/keycloak-original.svg" alt="Keycloak" width="40" height="40" style="margin:5px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS S3" width="40" height="40" style="margin:5px"/>
+</p>
+
+---
+
 ## About Me
 Full-stack developer building production-grade platforms, real-time video systems, secure authentication flows, and custom WordPress plugins.  
-I work across JavaScript & PHP ecosystems (MERN, React Native, Fastify, Prisma, PostgreSQL, Docker) and deploy full applications on unmanaged VPS servers.
+I deploy full applications on unmanaged VPS servers and work across JavaScript & PHP ecosystems.
 
 ---
 
 ## Highlight Projects
 
 **session.closebyyou.com – Video Consultation Platform**  
-MERN + Agora. HD calls, appointments, whiteboard, notes, roles, authentication.
+MERN + Agora + AWS S3. HD calls, appointments, whiteboard, patient history, session notes, role-based permissions, authentication.  
 
 **MySafeLogin.com – SSO System**  
 Keycloak + Docker + VPS. Enterprise-level SSO with RBAC, federation, and WordPress integration.
@@ -24,23 +41,7 @@ React + Fastify + Prisma + PostgreSQL + Docker. Cloud reader with progress track
 React Native + WordPress API. Appointments, profiles, secure login.
 
 **20+ Custom WordPress Plugins**  
-Custom plugins for streaming, booking systems, dashboards, checkout logic, ACF workflows.
-
----
-
-## Tech Stack
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" alt="WordPress" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keycloak/keycloak-original.svg" alt="Keycloak" width="40" height="40"/>
-</p>
+Streaming, booking, dashboards, checkout logic, ACF workflows, and API integrations.
 
 ---
 
