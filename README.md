@@ -2,12 +2,7 @@
 
 Full-Stack Web & Mobile Developer | MERN | WordPress | Real-Time Systems
 
-
 <img src="https://skillicons.dev/icons?i=react,nodejs,js,ts,wordpress,docker,mysql,postgres,tailwind,aws" alt="Tech Stack"/>
-
-## About Me
-
-Full-stack developer building **production-grade platforms**, **real-time video systems**, and **custom WordPress plugins**. I deploy on unmanaged VPS and lead a remote multidisciplinary team.
 
 ---
 
@@ -32,7 +27,7 @@ Streaming, booking, dashboards, checkout, ACF, API integrations
 
 Arabic • French • English • German
 
-# Full-stack magician: transforming ideas into reality.
+## Full-stack magician: transforming ideas into reality.
 
 <a href="mailto:farah.kharbeche@outlook.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
