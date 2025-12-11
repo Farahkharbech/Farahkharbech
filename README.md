@@ -2,7 +2,8 @@
 
 Full-Stack Web & Mobile Developer | MERN | WordPress | Real-Time Systems
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,js,ts,wordpress,docker,mysql,postgres,tailwind,aws,cypress,playwright" alt="Tech Stack"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,js,ts,wordpress,docker,mysql,postgres,tailwind,aws,cypress,playwright,jest" alt="Tech Stack"/>
+
 
 
 ---
