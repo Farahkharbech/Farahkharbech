@@ -16,8 +16,8 @@ MERN + Agora + AWS S3 | HD calls, appointments, whiteboard, patient history
 **MySafeLogin.com** – Enterprise SSO System  
 Keycloak + Docker | RBAC, federation, WordPress integration
 
-**Ebook Reader SaaS** *(WIP)*  
-React + Fastify + Prisma + PostgreSQL | Cloud reader with auth
+**Ebook Reader SaaS**  
+React + Fastify + Prisma + Node + PostgreSQL + Docker | Cloud reader with auth and wordpress integration
 
 **CloseByYou Mobile App**  
 React Native + WordPress API | Appointments & profiles
@@ -27,7 +27,7 @@ Streaming, booking, dashboards, checkout, ACF, API integrations
 
 ## Languages
 
-English • German • French •  Arabic
+English • German • French 
 
 ## Full-stack magician: transforming ideas into reality.
 
