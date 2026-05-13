@@ -13,7 +13,7 @@ Full-Stack Software Engineer
 
 ## Key Projects
 
-### [AI Fencing Meter] (http://app.aifencingmeter.com/)
+### [AI Fencing Meter](http://app.aifencingmeter.com/)
 Next.js + Node.js + PostgreSQL + AI API integration
 AI Video Analysis Platform for Fencing  
 AI-powered fencing analysis platform capable of analyzing movements, actions, timing, and performance from fencing videos using computer vision and machine learning technologies.
