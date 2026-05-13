@@ -13,20 +13,31 @@ Full-Stack Software Engineer
 
 ## Key Projects
 
-**session.closebyyou.com** – Video Consultation Platform  
-MERN + Agora + AWS S3 | HD calls, appointments, whiteboard, patient history
+### [AI Fencing Meter] (http://app.aifencingmeter.com/)
+Next.js + Node.js + PostgreSQL + AI API integration
+AI Video Analysis Platform for Fencing  
+AI-powered fencing analysis platform capable of analyzing movements, actions, timing, and performance from fencing videos using computer vision and machine learning technologies.
 
-**MySafeLogin.com** – Enterprise SSO System  
-Keycloak + Docker | RBAC, federation, WordPress integration
+---
 
-**Oniryum Ebook Reader SaaS**  
-React + Typescript + Fastify + Prisma + Node + PostgreSQL + Docker | Cloud reader with auth and wordpress integration
+### [CloseByYou Video Consultation Platform](https://session.closebyyou.com/)
+MERN + Agora + AWS S3  
+HD video consultations, appointments management, collaborative whiteboard, and patient history system for therapists and patients.
 
-**CloseByYou Mobile App**  
-React Native + WordPress API | Appointments & profiles
+---
 
-**20+ WordPress Plugins**  
-Streaming, booking, dashboards, checkout, ACF, API integrations
+### [MySafeLogin](https://mysafelogin.com/)
+Keycloak + Docker + Custom WordPress Integration plugin  
+Enterprise SSO and identity management platform with RBAC, federation, authentication workflows, and WordPress integration.
+
+---
+
+### Oniryum Ebook Reader SaaS
+React + TypeScript + Fastify + Prisma + Node.js + PostgreSQL + Docker  
+Cloud-based ebook reading platform with authentication system and WordPress integration.
+
+---
+
 
 ## Languages
 
