@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Farah Kharbeche
 
-Full-Stack Web & Mobile Developer | MERN | WordPress | Real-Time Systems
+Full-Stack Software Engineer
 
 <img 
   src="https://skillicons.dev/icons?i=react,nextjs,nodejs,js,ts,wordpress,docker,mongodb,mysql,postgres,tailwind,aws,cypress,playwright,jest" 
