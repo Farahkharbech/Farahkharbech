@@ -30,7 +30,7 @@ Streaming, booking, dashboards, checkout, ACF, API integrations
 
 ## Languages
 
-English • German • French 
+🇬🇧 English • 🇩🇪 German • 🇫🇷 French
 
 ## Full-stack magician: transforming ideas into reality.
 
