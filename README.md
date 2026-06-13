@@ -7,9 +7,6 @@ Full-Stack Software Engineer
   alt="Tech Stack" 
 />
 
-<a href="https://yourdomain.com/farahkharbech" target="_blank">
-  <img src="https://yourdomain.com/api/og/farahkharbech" alt="farahkharbech on DevMirror" width="100%" />
-</a>
 
 
 ---
