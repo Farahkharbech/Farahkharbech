@@ -7,6 +7,7 @@ Full-Stack Software Engineer
   alt="Tech Stack" 
 />
 
+[![DevMirror](https://yourdomain.com/api/og/farahkharbech)](https://yourdomain.com/farahkharbech)
 
 
 ---
