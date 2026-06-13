@@ -7,7 +7,9 @@ Full-Stack Software Engineer
   alt="Tech Stack" 
 />
 
-[![DevMirror](https://yourdomain.com/api/og/farahkharbech)](https://yourdomain.com/farahkharbech)
+<a href="https://yourdomain.com/farahkharbech" target="_blank">
+  <img src="https://yourdomain.com/api/og/farahkharbech" alt="farahkharbech on DevMirror" width="100%" />
+</a>
 
 
 ---
